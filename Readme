@@ -1,7 +1,15 @@
 ###
 ###
+Thesis Data Analysis
 ###
-Data Analysis
+### 
+Case 1. Reimann, Clemens (1998): Geochemistry of B-horizon/1 [dataset]. PANGAEA.
+Case 2. Dataset: Dissolved Mercury Speciation in the California Current System.
 ###
 ###
+After data cleaning, we chose to use the fat-tailed model for analysis, and detection limits were included in the multivariate data. The visual chart can compare the fat-tailed regression model and the normal regression model.
+經過資料清洗過後，選擇使用厚尾模型進行分析，多變量數據中包含檢測限制。可視化圖表中可以厚尾迴歸模型與常態迴歸模型的比較。
 ###
+###
+Case 1. 
+Case 2.
