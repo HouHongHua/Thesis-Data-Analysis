@@ -7,9 +7,29 @@ Case 1. Reimann, Clemens (1998): Geochemistry of B-horizon/1 [dataset]. PANGAEA.
 Case 2. Dataset: Dissolved Mercury Speciation in the California Current System.
 ###
 ###
-After data cleaning, we chose to use the fat-tailed model for analysis, and detection limits were included in the multivariate data. The visual chart can compare the fat-tailed regression model and the normal regression model.
+After data cleaning, we chose to use the fat-tailed model for analysis, and detection limits were included in the multivariate data. 
+The visual chart can compare the fat-tailed regression model and the normal regression model.
 經過資料清洗過後，選擇使用厚尾模型進行分析，多變量數據中包含檢測限制。可視化圖表中可以厚尾迴歸模型與常態迴歸模型的比較。
 ###
 ###
-Case 1. 
-Case 2.
+Case 1. Quoted from the data set recorded on the PANGAEA website, studied and recorded by Clemens et al. (1998), the exploration of all elements in different media within a 188,000 square kilometer research area in Norway. 
+        The project covers polluted areas in Northern Europe and Pristine Zone is one of the largest environmental geochemistry studies ever undertaken.
+
+        The data set contains a variety of elements or compounds, whose individual detection limits are recorded later and are all different, as well as a variety of information about the sample taken. 
+        Therefore, a multivariable regression model was selected for analysis.
+###
+###
+Case 2. The data comes from the collaborative project "Untangling the Marine Dimethylmercury Cycle" hosted by the California Center for Long-term Ecosystem Research in Current Ecosystems. 
+        Dissolved mercury (Hg) speciation samples collected during a 2021 cruise to the California Current System.
+
+        This data contains a total of 4 mercury types, each of which has different detection limits and units (femtomolar & picomolar).
+        The data set also documents the multiple factors involved in mercury dissolution in the ocean, including: depth, temperature, and salinity.
+        Different factors will affect the degree of solubility of mercury compounds.
+        In the algorithm analysis, it can be seen that the multi-group multivariable regression model has better analysis results.
+###
+###
+Reference
+Case 1. https://doi.pangaea.de/10.1594/PANGAEA.56264?format=html#mcol49_ds2076224
+Case 2. https://www.bco-dmo.org/dataset/926873
+###
+###
