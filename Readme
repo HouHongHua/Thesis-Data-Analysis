@@ -21,6 +21,11 @@ The dataset contains a variety of elements and compounds, each with different in
 Therefore, a multivariable regression model was selected for analysis.
 資料集包含各種元素和化合物，每種元素和化合物都有不同的檢測限制，以及有關所採集樣品的一系列資訊。
 因此，選擇多元迴歸模型進行分析。
+In the histogram from the upper left corner to the lower right corner in the Thesis_case1.png, we can see that the part contains the density line. 
+The model we built is represented by the red line, and the histogram drawn by fitting the observed values ​​has better results than other models.
+在 Thesis_case1.png 的左上角到右下角的直方圖，可以看到含有 density line 的部分。
+我們所建立的模型使用紅色線表示，在適配觀察值畫出的直方圖比起其他模型有更好的結果。
+
 ###
 ###
 Case 2. 
