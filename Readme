@@ -13,10 +13,11 @@ The comparison between the fat-tail regression model and the normal regression m
 ###
 ###
 Case 1. 
-Quoted from the data set recorded on the PANGAEA website, studied and recorded by Clemens et al. (1998), the exploration of all elements in different media within a 188,000 square kilometer research area in Norway. 
-The project covers polluted areas in Northern Europe and Pristine Zone is one of the largest environmental geochemistry studies ever undertaken.
-
-The data set contains a variety of elements or compounds, whose individual detection limits are recorded later and are all different, as well as a variety of information about the sample taken. 
+Based on the dataset recorded on the PANGAEA website and studied by Clemens et al. (1998), an exploration was conducted of all elements in different media within a 188,000 square kilometer research area in Norway. 
+This project, which covers polluted areas in Northern Europe and the Pristine Zone, is one of the largest environmental geochemistry studies ever undertaken.
+來自於 PANGEA 網站上記錄並由 Clemens(1998) 等人蒐集的資料集，在挪威 188,000 平方公里的區域內對不同介質中的所有元素進行了探勘。
+計畫涵蓋北歐與其原始區的污染地區，是有史以來最大的環境地球化學研究之一。
+The dataset contains a variety of elements and compounds, each with different individual detection limits, as well as a range of information about the samples taken. 
 Therefore, a multivariable regression model was selected for analysis.
 ###
 ###
