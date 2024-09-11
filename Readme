@@ -19,16 +19,23 @@ This project, which covers polluted areas in Northern Europe and the Pristine Zo
 計畫涵蓋北歐與其原始區的污染地區，是有史以來最大的環境地球化學研究之一。
 The dataset contains a variety of elements and compounds, each with different individual detection limits, as well as a range of information about the samples taken. 
 Therefore, a multivariable regression model was selected for analysis.
+資料集包含各種元素和化合物，每種元素和化合物都有不同的檢測限制，以及有關所採集樣品的一系列資訊。
+因此，選擇多元迴歸模型進行分析。
 ###
 ###
 Case 2. 
-The data comes from the collaborative project "Untangling the Marine Dimethylmercury Cycle" hosted by the California Center for Long-term Ecosystem Research in Current Ecosystems. 
-Dissolved mercury (Hg) speciation samples collected during a 2021 cruise to the California Current System.
-
-This data contains a total of 4 mercury types, each of which has different detection limits and units (femtomolar & picomolar).
-The data set also documents the multiple factors involved in mercury dissolution in the ocean, including: depth, temperature, and salinity.
-Different factors will affect the degree of solubility of mercury compounds.
-In the algorithm analysis, it can be seen that the multi-group multivariable regression model has better analysis results.
+The data comes from the collaborative project "Untangling the Marine Dimethylmercury Cycle," hosted by the California Center for Long-term Ecosystem Research in Current Ecosystems. 
+The dataset consists of dissolved mercury (Hg) speciation samples collected during a 2021 cruise in the California Current System.
+這些數據來自加州當前生態系統長期生態系統研究中心主辦的合作計畫「解開海洋二甲基汞循環」。
+資料集由 2021 年在加州洋流系統巡航期間收集的溶解汞 (Hg) 形態樣本組成。
+This dataset contains four types of mercury, each with different detection limits and units (femtomolar and picomolar). 
+It also documents multiple factors involved in mercury dissolution in the ocean, including depth, temperature, and salinity. 
+Different factors affect the solubility of mercury compounds. 
+The algorithm analysis shows that a multigroup multivariable regression model provides better analysis results.
+此資料集包含四種類型的汞，每種汞都有不同的檢測極限和單位（femtomolar and picomolar）。
+它還記錄了海洋中汞溶解所涉及的多種因素，包括深度、溫度和鹽度。
+不同的因素影響汞化合物的溶解度。
+演算法分析表明，多組多元迴歸模型提供了更好的分析結果。
 ###
 ###
 Reference
