@@ -2,17 +2,8 @@
 ###
 Thesis Data Analysis
 ###
-### 
+###
 Case 1. Reimann, Clemens (1998): Geochemistry of B-horizon/1 [dataset]. PANGAEA.
-Case 2. Dataset: Dissolved Mercury Speciation in the California Current System.
-###
-###
-After data cleaning, we chose to use the fat-tailed model for analysis, and detection limits were included in the multivariate data. 
-The comparison between the fat-tail regression model and the normal regression model can be seen in the visual chart.
-經過資料清洗過後，選擇使用厚尾模型進行分析，多變量數據中包含檢測限制。可視化圖表中可以看到肥尾迴歸模型和常態迴歸模型的比較。
-###
-###
-Case 1. 
 Based on the dataset recorded on the PANGAEA website and studied by Clemens et al. (1998), an exploration was conducted of all elements in different media within a 188,000 square kilometer research area in Norway. 
 This project, which covers polluted areas in Northern Europe and the Pristine Zone, is one of the largest environmental geochemistry studies ever undertaken.
 來自於 PANGEA 網站上記錄並由 Clemens(1998) 等人蒐集的資料集，在挪威 188,000 平方公里的區域內對不同介質中的所有元素進行了探勘。
@@ -21,14 +12,9 @@ The dataset contains a variety of elements and compounds, each with different in
 Therefore, a multivariable regression model was selected for analysis.
 資料集包含各種元素和化合物，每種元素和化合物都有不同的檢測限制，以及有關所採集樣品的一系列資訊。
 因此，選擇多元迴歸模型進行分析。
-In the histogram from the upper left corner to the lower right corner in the Thesis_case1.png, we can see that the part contains the density line. 
-The model we built is represented by the red line, and the histogram drawn by fitting the observed values ​​has better results than other models.
-在 Thesis_case1.png 的左上角到右下角的直方圖，可以看到含有 density line 的部分。
-我們所建立的模型使用紅色線表示，在適配觀察值畫出的直方圖比起其他模型有更好的結果。
-
 ###
 ###
-Case 2. 
+Case 2. Dataset: Dissolved Mercury Speciation in the California Current System. 
 The data comes from the collaborative project "Untangling the Marine Dimethylmercury Cycle," hosted by the California Center for Long-term Ecosystem Research in Current Ecosystems. 
 The dataset consists of dissolved mercury (Hg) speciation samples collected during a 2021 cruise in the California Current System.
 這些數據來自加州當前生態系統長期生態系統研究中心主辦的合作計畫「解開海洋二甲基汞循環」。
@@ -41,6 +27,17 @@ The algorithm analysis shows that a multigroup multivariable regression model pr
 它還記錄了海洋中汞溶解所涉及的多種因素，包括深度、溫度和鹽度。
 不同的因素影響汞化合物的溶解度。
 演算法分析表明，多組多元迴歸模型提供了更好的分析結果。
+###
+###
+After data cleaning, we chose to use the fat-tailed model for analysis, and detection limits were included in the multivariate data. 
+The comparison between the fat-tail regression model and the normal regression model can be seen in the visual chart.
+經過資料清洗過後，我們選擇使用厚尾模型進行分析，另外多變量數據中包含檢測限制。在可視化圖表中可以看到厚尾迴歸模型和常態迴歸模型的比較。
+In the histogram portion of two charts, we can see the portion containing the density line.
+The model we built is represented by the red line, and the histogram drawn by fitting the observed values ​​has better results than other models.
+In the contour lines part, the red line is the model built by us, which has better fitting.
+在兩張圖表中的直方圖部份，可以看到含有 density line 的部分。
+我們所建立的模型使用紅色線表示，在適配觀察值畫出的直方圖比起其他模型有更好的結果。
+等高線圖部分，紅色線是我們建立的模型，擬合效果較好。
 ###
 ###
 Reference
