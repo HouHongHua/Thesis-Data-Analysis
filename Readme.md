@@ -38,7 +38,7 @@ The algorithm analysis shows that a multigroup multivariable regression model pr
 不同的因素影響汞化合物的溶解度。
 演算法分析表明，多組多元迴歸模型提供了更好的分析結果。
 
-## Result
+## Data Analysis
 After data cleaning, we chose to use the fat-tailed model for analysis, and detection limits were included in the multivariate data. 
 The comparison between the fat-tail regression model and the normal regression model can be seen in the visual chart.
 
@@ -54,5 +54,7 @@ In the contour lines part, the red line is the model built by us, which has bett
 
 ### Reference
 Algorithm: https://github.com/tom-jin/GPMH
+
 Case 1. https://doi.pangaea.de/10.1594/PANGAEA.56264?format=html#mcol49_ds2076224
+
 Case 2. https://www.bco-dmo.org/dataset/926873
