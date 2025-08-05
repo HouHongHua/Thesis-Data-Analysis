@@ -1,5 +1,5 @@
 # 有限混合多變量斜線設限迴歸模型之最大概似估計
-Maximum-Likelihood Estimation for Finite Mixtures of Multivariate-Slash Censored Regression Models
+Maximum-Likelihood Estimation for Finite Mixtures of Multivariate Slash Censored Regression Models
 
 論文永久網址: https://hdl.handle.net/11296/45fhef
 
