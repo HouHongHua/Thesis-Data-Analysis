@@ -1,7 +1,9 @@
+# 有限混合多變量斜線設限迴歸模型之最大概似估計
+## Maximum-Likelihood Estimation for Finite Mixtures of Multivariate-Slash Censored Regression Models
+https://hdl.handle.net/11296/45fhef
+
 # Thesis Data Analysis
 因系列論文投稿期刊中，詳細統計分佈與有限混合多變量截切分佈演算法因投稿過程中維持保密，無法呈現。謹在此呈現實證資料分析與視覺化成果。
-
-https://hdl.handle.net/11296/45fhef
 
 ## 斜線分佈
 The slash distribution is a probability distribution that arises from the ratio of a standard normal variable to an independent uniform variable. It is characterized by its heavy tails and kurtosis, making it useful for modeling data with outliers and extreme values.
