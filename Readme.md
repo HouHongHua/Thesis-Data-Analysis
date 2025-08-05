@@ -12,8 +12,6 @@ The slash distribution is a probability distribution that arises from the ratio 
 
 General Parallel Metropolis-Hastings設計平行化採樣改善原始演算法的單一採樣作法，具有更快的收斂效率。
 
-演算法詳見 MCMC.R。
-
 ## Thesis Data Analysis
 因系列論文投稿期刊中，詳細統計分佈與有限混合多變量截切分佈演算法因投稿過程中維持保密，無法呈現。
 
@@ -57,11 +55,11 @@ The comparison between the fat-tail regression model and the normal regression m
 
 In the histogram portion of two charts, we can see the portion containing the density line.
 The model we built is represented by the red line, and the histogram drawn by fitting the observed values ​​has better results than other models.
-In the contour lines part, the red line is the model built by us, which has better fitting.
+In the contour lines part, the red line is the model built by us, which has better fitting, and it covers more outliers.
 
 在兩張圖表中的直方圖部份，可以看到含有 density line 的部分。
 我們所建立的模型使用紅色線表示，在適配觀察值畫出的直方圖比起其他模型有更好的結果。
-等高線圖部分，紅色線是我們建立的模型，適配效果較好。
+等高線圖部分，紅色線是我們建立的模型，適配效果較好，且涵蓋更多數的離群值。
 
 ### Reference
 Algorithm: https://github.com/tom-jin/GPMH
