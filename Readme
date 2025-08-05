@@ -1,7 +1,7 @@
 ###
 ###
 Thesis Data Analysis
-因系列論文尚未完成，且未投稿期刊，統計演算法無法呈現。
+因系列論文尚未完成，且未投稿期刊，詳細統計分佈與有限混合多變量截切分佈演算法無法呈現。
 ###
 ###
 斜線分佈
@@ -49,6 +49,7 @@ In the contour lines part, the red line is the model built by us, which has bett
 ###
 ###
 Reference
+Algorithm: https://github.com/tom-jin/GPMH
 Case 1. https://doi.pangaea.de/10.1594/PANGAEA.56264?format=html#mcol49_ds2076224
 Case 2. https://www.bco-dmo.org/dataset/926873
 ###
