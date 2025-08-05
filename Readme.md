@@ -15,7 +15,7 @@ General Parallel Metropolis-Hastings設計平行化採樣改善原始演算法�
 ## Thesis Data Analysis
 因系列論文投稿期刊中，詳細統計分佈與有限混合多變量截切分佈演算法因投稿過程中維持保密，無法呈現。
 
-# ** 謹在此呈現實證資料分析與視覺化成果。 **
+### **謹在此呈現實證資料分析與視覺化成果。**
 
 ### Case 1. Reimann, Clemens (1998): Geochemistry of B-horizon/1 [dataset]. PANGAEA.
 Based on the dataset recorded on the PANGAEA website and studied by Clemens et al. (1998), an exploration was conducted of all elements in different media within a 188,000 square kilometer research area in Norway. 
