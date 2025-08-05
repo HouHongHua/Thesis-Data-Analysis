@@ -8,9 +8,9 @@ https://hdl.handle.net/11296/45fhef
 ## 斜線分佈
 The slash distribution is a probability distribution that arises from the ratio of a standard normal variable to an independent uniform variable. It is characterized by its heavy tails and kurtosis, making it useful for modeling data with outliers and extreme values.
 
-斜線分佈(William H. Rogers and John Tukey 1972)主要解決常態分佈難以處理之離群值或極端值，常用於統計模擬和穩健統計推論。
+斜線分佈 (William H. Rogers and John Tukey 1972) 主要解決常態分佈難以處理之離群值或極端值，常用於統計模擬和穩健統計推論。
 
-因另外處理遺失值或設限值，斜線分佈無封閉解，加入MCMC Method處理數值積分。使用Metropolis-Hastings algorithm對複雜機率採樣，做出近似目標分佈之分佈。另外比較General Parallel Metropolis-Hastings algorithm(Ben Calderhead 2014)與Metropolis-Hastings algorithm之近似分佈與運算效率。
+因另外處理遺失值或設限值，斜線分佈無封閉解，加入MCMC Method處理數值積分。使用Metropolis-Hastings algorithm對複雜機率採樣，做出近似目標分佈之分佈。另外比較General Parallel Metropolis-Hastings algorithm (Ben Calderhead 2014) 與Metropolis-Hastings algorithm之近似分佈與運算效率。
 
 General Parallel Metropolis-Hastings設計平行化採樣改善原始演算法的單一採樣作法，具有更快的收斂效率。
 
